@@ -12,7 +12,8 @@ de software para mejorar el rendimiento y la eficiencia tecnológica de una empr
 - ✅ Característica 3
 
 ## 📷 Capturas de Pantalla
-![Descripción de la imagen](URL_de_la_imagen)
+![Descripción de la imagen]
+([URL_de_la_imagen](https://www.nobasys.com/html/consultoria-informatica.html))
 
 ## 📦 Instalación
 1. Clona el repositorio:
