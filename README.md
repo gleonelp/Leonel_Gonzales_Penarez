@@ -26,8 +26,8 @@ Actualmente, estoy desarrollando una app en **Android Studio con Java** y explor
 - 💼 [LinkedIn](linkedin.com/in/leonel-boris-gonzales-penarez-271249351)  
 - 📂 [Portafolio](https://gleonel01.wixsite.com/servicios-gleonel)
 - 
-## 📷 Acceso a mi Perfil
-![Descripción de mi perfil]()
+## 📷 Acceso a mi Correo
+[Correo](https://gleonel01@gmail.com)
 
 ## 📦 Instalación
 1. Clona el repositorio:
