@@ -10,9 +10,8 @@ Consultoría: Análisis y recomendación de soluciones tecnológicas adaptadas a
 - ✅ Asesoramiento estratégico: Recomendaciones basadas en análisis técnico para mejorar la eficiencia y productividad.
 
 
-## 📷 Capturas de Pantalla
-![Descripción de la imagen](URL_de_la_imagen)
-
+## 📷 Acceso a mi Perfil
+![Descripción de mi perfil]()
 
 ## 📦 Instalación
 1. Clona el repositorio:
