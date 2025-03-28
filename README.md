@@ -1,14 +1,15 @@
+![Banner](https://github.com/user-attachments/assets/df0e0e4b-431e-44a4-a313-690243bcbaa5)
 
-# 📌 SOPORTE TECNICO Y ASESORIA EN REDES Y CONSULTORIA
+# 📌 SOPORTE TÉCNICO Y ASESORÍA EN REDES Y CONSULTORÍA
 
-Breve descripción del proyecto.
-Soporte Técnico: Servicio que proporciona asistencia para solucionar problemas informáticos, incluyendo hardware, software y sistemas operativos, garantizando el funcionamiento óptimo de equipos y redes.
-Asesoría en Redes: Orientación especializada en la planificación, configuración y optimización de redes informáticas, asegurando conectividad, seguridad y eficiencia en la transmisión de datos.
-Consultoría: Análisis y recomendación de soluciones tecnológicas adaptadas a las necesidades de empresas o individuos, mejorando procesos, infraestructura y seguridad informática.
+### Breve descripción del proyecto
 
-#🎯 **Desarrollador y entusiasta de la tecnología**
-Soy apasionado por la programación, el desarrollo de aplicaciones móviles y la optimización de sistemas tecnológicos.
-Actualmente, estoy desarrollando una app en **Android Studio con Java** y explorando el mundo de la **IA**. 🚀
+🔧 **Soporte Técnico:** Asistencia en hardware, software y sistemas operativos para garantizar el funcionamiento óptimo de equipos y redes.  
+🌐 **Asesoría en Redes:** Planificación, configuración y optimización de redes informáticas para mejorar conectividad y seguridad.  
+📊 **Consultoría:** Análisis y recomendaciones para optimizar procesos, infraestructura y seguridad informática.
+
+## 🎯 Desarrollador y entusiasta de la tecnología
+Soy apasionado por la programación, el desarrollo de aplicaciones móviles y la optimización de sistemas tecnológicos. Actualmente, estoy desarrollando una app en **Android Studio con Java** y explorando el mundo de la **IA**. 🚀
 
 ## 🚀 Tecnologías y Herramientas
 💻 **Lenguajes:** Java, Python, JavaScript  
@@ -22,15 +23,14 @@ Actualmente, estoy desarrollando una app en **Android Studio con Java** y explor
 - 🌍 **Desarrollo de sitios web dinámicos**
 
 ## 🌎 Encuéntrame en:
-- 🐦 [Twitter](https://twitter.com/tuusuario)  
-- 💼 [LinkedIn](linkedin.com/in/leonel-boris-gonzales-penarez-271249351)  
-- 📂 [Portafolio](https://gleonel01.wixsite.com/servicios-gleonel)
-- 
+🐦 [Twitter](https://twitter.com/tuusuario)  
+💼 [LinkedIn](https://www.linkedin.com/in/leonel-boris-gonzales-penarez-271249351)  
+📂 [Portafolio](https://gleonel01.wixsite.com/servicios-gleonel)  
+
 ## 📷 Acceso a mi Correo
-[Correo](https://gleonel01@gmail.com)
+📩 [gleonel01@gmail.com](mailto:gleonel01@gmail.com)
 
 ## 📦 Instalación
-1. Clona el repositorio:
-   ```sh
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-
+```sh
+ git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+```
