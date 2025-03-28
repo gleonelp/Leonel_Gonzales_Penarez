@@ -1,0 +1,7 @@
+echo "# Leonel_Gonzales_Penarez" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gleonelp/Leonel_Gonzales_Penarez.git
+git push -u origin main
